@@ -1,5 +1,6 @@
 cff-version: 1.2.0
 title: "Unifying Perspectives on Learning Biases: A Data-Centric Intervention for Holistic Fairness, Robustness, and Generalization"
+message: "If you use these methods or findings, please cite our work."
 type: software
 authors:
   - family-names: Ndowo
