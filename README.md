@@ -5,7 +5,7 @@
 [![Project Page](https://img.shields.io/badge/Project%20Page-Live-14532d)](https://saaillab.github.io/trustworthy-ai-iclr2026/)
 [![SAAIL Lab Summary](https://img.shields.io/badge/SAAIL%20Lab-ICLR%202026-0f172a)](https://saaillab.github.io/papers/trustworthy-ai-iclr2026/)
 [![OpenReview Forum](https://img.shields.io/badge/OpenReview-RCEEHTbSDk-b45309)](https://openreview.net/forum?id=RCEEHTbSDk)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-14532d.svg)](LICENSE)
 
 **Authors:** Patrick Vincent Ndowo, Innocent Nyalala  
 **Affiliation:** SAAIL Lab, School of Engineering and Science, Indian Institute of Technology Madras Zanzibar, Tanzania  
@@ -66,7 +66,7 @@ Accepted and presented at the **ICLR 2026 Workshop on Principled Design for Trus
 - **Target Applications:** Subgroup-blind debiasing in low-resource vision and clinical ML where explicit nuisance labels cannot be annotated cleanly at scale
 - **Companion Audit Tooling:** Integrates naturally with SAAIL Lab deployment-gap (`DGS-Bench`) and dataset-representation (`DSA 2026`) verification workflows
 - **Author Profiles:** [Innocent Nyalala](https://inyalala.github.io/) · [Patrick Vincent Ndowo](https://www.linkedin.com/in/patrick-ndowo/) · [SAAIL Lab (IIT Madras Zanzibar)](https://saaillab.github.io/)
-- **Open-Source License:** Released under the [MIT License](LICENSE) by SAAIL Lab, School of Engineering and Science, Indian Institute of Technology Madras Zanzibar
+- **Research License:** Released strictly under [CC BY-NC 4.0](LICENSE) (non-commercial research only with mandatory attribution; commercialization prohibited without direct inclusion of Innocent Nyalala)
 
 ---
 
@@ -108,4 +108,14 @@ trustworthy-ai-iclr2026/
 }
 ```
 
-Maintained by **[SAAIL Lab](https://saaillab.github.io/)**, School of Engineering and Science, Indian Institute of Technology Madras Zanzibar, Tanzania.
+---
+
+## License, Attribution & Commercial Restriction
+
+All code, benchmark documentation, splits, and research artifacts in this repository are licensed strictly under **Creative Commons Attribution-NonCommercial 4.0 International ([CC BY-NC 4.0](LICENSE))** by **Innocent Nyalala & SAAIL Lab (Indian Institute of Technology Madras Zanzibar)**.
+
+- **Non-Commercial Scientific Use Only:** Materials may be studied, cited, and adapted strictly for non-commercial academic research and educational replication.
+- **Mandatory Attribution:** Any use or derivative study must explicitly acknowledge **Innocent Nyalala** ([IITMZ Profile](https://www.iitmz.ac.in/schools/engineering-and-science/faculty/prof-innocent-nyalala)) and **[SAAIL Lab](https://saaillab.github.io/)** and cite the accompanying publication above.
+- **Prohibition on Unauthorized Commercialization:** Commercial deployment, paid hosting, proprietary licensing, or product commercialization is strictly prohibited without prior written authorization and direct inclusion of **Innocent Nyalala (`innocent@iitmz.ac.in`)**.
+
+Maintained by **[SAAIL Lab](https://saaillab.github.io/)** ([IITMZ Labs](https://www.iitmz.ac.in/labs)) · School of Engineering and Science, **[Indian Institute of Technology Madras Zanzibar](https://www.iitmz.ac.in/)** · PI: **[Innocent Nyalala](https://www.iitmz.ac.in/schools/engineering-and-science/faculty/prof-innocent-nyalala)**.
