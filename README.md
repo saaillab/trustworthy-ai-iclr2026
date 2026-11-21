@@ -65,7 +65,7 @@ Accepted and presented at the **ICLR 2026 Workshop on Principled Design for Trus
 - **Workshop Track:** Principled Design for Trustworthy AI (Interpretability, Robustness, and Safety across Modalities)
 - **Target Applications:** Subgroup-blind debiasing in low-resource vision and clinical ML where explicit nuisance labels cannot be annotated cleanly at scale
 - **Companion Audit Tooling:** Integrates naturally with SAAIL Lab deployment-gap (`DGS-Bench`) and dataset-representation (`DSA 2026`) verification workflows
-- **Author Profiles:** [Dr. Innocent Nyalala](https://inyalala.github.io/) · [Patrick Vincent Ndowo](https://www.linkedin.com/in/patrick-ndowo/)
+- **Author Profiles:** [Innocent Nyalala](https://inyalala.github.io/) · [Patrick Vincent Ndowo](https://www.linkedin.com/in/patrick-ndowo/) · [SAAIL Lab (IIT Madras Zanzibar)](https://saaillab.github.io/)
 - **Open-Source License:** Released under the [MIT License](LICENSE) by SAAIL Lab, School of Engineering and Science, Indian Institute of Technology Madras Zanzibar
 
 ---
