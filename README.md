@@ -1,3 +1,5 @@
+[![Project Page](https://img.shields.io/badge/Project%20Page-Live-2563eb)](https://saaillab.github.io/trustworthy-ai-iclr2026/) [![SAAIL Lab](https://img.shields.io/badge/ICLR%202026-Workshop-0f172a)](https://saaillab.github.io/papers/trustworthy-ai-iclr2026/)
+
 # Principled Design for Trustworthy AI: Interpretability, Robustness, and Safety across Modalities
 
 [![ICLR 2026](https://img.shields.io/badge/ICLR-2026-purple)](https://iclr.cc/)
